@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CubeRegion
+  - selected
+  - CubeRegion1
+  - CubeRegion2
+  - CubeRegion3
+  - CubeRegion4
+  - CubeRegion5
+  - CubeRegion6
+  - CubeRegion7
+  - b0
+  - b1
+  - b2
+  - b3
+  - EnterRegion
+  - b4
+  - b5
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 1660047279
+    locked: 0
+  - name: MidGround
+    uniqueID: 2584041083
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4031327985
+    locked: 0
